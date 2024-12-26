@@ -53,7 +53,7 @@
       <img align="center" alt="Taban Soleymani | Instagram" width="30em" src="https://img.icons8.com/ios-glyphs/50/000000/instagram-new.png" />
       </a> &nbsp;&nbsp;
       <a href="mailto:tabansly78@gmail.com" >
-      <img align="center" alt="Taban Soleymani | Gmail" width="30em" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge &logo=gmail &logoColor=white" />
+      <img https://img.shields.io/badge/Gmail-D14836?style=for-the-badge &logo=gmail &logoColor=white />
       </a> &nbsp;&nbsp;
       <a href="https://join.skype.com/invite/oJPb3eoBcLa3" >
       <img align="center" alt="Taban Soleymani | Skype" width="30em" src="https://img.icons8.com/ios-glyphs/50/000000/skype.png" />
