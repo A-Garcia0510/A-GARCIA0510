@@ -14,7 +14,6 @@
        <ul>
         <li>📚 &nbsp; Estudiando en Ingenieria Civil en Informatica en <a href="https://www.uct.cl/">UCT</a></li>
         <li>🤔 &nbsp; Interesado en Frontend y Backend</li>
-        <li> &nbsp; Interesado en Frontend y Backend</li>
        </ul>
        <p align="center">
          <br>
@@ -31,6 +30,7 @@
    <td>
      <h2> 🛠 &nbsp;Tech Stack</h2>
      <img src="https://img.shields.io/badge/-Python-05122A?style=flat&logo=python"/>
+     <img src="https://img.shields.io/badge/-MySql-05122A?style=flat&logo=mysql"/>
      <br>
      <img src="https://img.shields.io/badge/-HTML-05122A?style=flat&logo=HTML5"/>
      <img src="https://img.shields.io/badge/-CSS-05122A?style=flat&logo=CSS3"/>
@@ -38,9 +38,8 @@
      <img src="https://img.shields.io/badge/-Bootstrap-05122A?style=flat&logo=bootstrap"/>
      <br>
      <img src="https://img.shields.io/badge/-Github-05122A?style=flat&logo=github"/>
-     <img src="https://img.shields.io/badge/-MySql-05122A?style=flat&logo=mysql"/>
-     <br>
      <img src="https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC"/>
+     <br>
    </td>
    <td>
     <div align="center">
