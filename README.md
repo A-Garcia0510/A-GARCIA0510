@@ -43,11 +43,19 @@
         </tr>
     </tbody>
 </table>
-<!--Github stats Table--> 
-<h2 align="center"> Gɪᴛʜᴜʙ Sᴛᴀᴛs </h2>
-
-[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=A-Garcia0510&theme=dark&hide_border=true&include_all_commits=false&count_private=false)](https://github.com/anuraghazra/github-readme-stats)
-[![Streak Stats](https://github-readme-streak-stats.herokuapp.com/?user=A-Garcia0510&theme=dark&hide_border=true)](https://github.com/the-pudding-company/github-readme-streak-stats)
-
-
-
+<p align="center">
+<table>
+  <tr>
+    <td align="center">
+      <a href="https://github.com/anuraghazra/github-readme-stats">
+        <img src="https://github-readme-stats.vercel.app/api?username=A-Garcia0510&theme=dark&hide_border=true&include_all_commits=false&count_private=false" alt="GitHub Stats" width="400"/>
+      </a>
+    </td>
+    <td align="center">
+      <a href="https://github.com/the-pudding-company/github-readme-streak-stats">
+        <img src="https://github-readme-streak-stats.herokuapp.com/?user=A-Garcia0510&theme=dark&hide_border=true" alt="Streak Stats" width="400"/>
+      </a>
+    </td>
+  </tr>
+</table>
+</p>
