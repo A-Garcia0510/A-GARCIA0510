@@ -52,8 +52,8 @@
       </a>
     </td>
     <td align="center">
-      <a href="https://github.com/the-pudding-company/github-readme-streak-stats">
-        <img src="https://github-readme-streak-stats.herokuapp.com/?user=A-Garcia0510&theme=dark&hide_border=true" alt="Streak Stats" width="400"/>
+      <a href="https://github-readme-stats.vercel.app/api/top-langs/?username=A-Garcia0510&theme=dark&show_icons=true&hide_border=true&layout=compact">
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=A-Garcia0510&theme=dark&show_icons=true&hide_border=true&layout=compact" alt="Streak Stats" width="400"/>
       </a>
     </td>
   </tr>
